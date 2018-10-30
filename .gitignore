@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestKommersant/.vs/config
+/TestKommersant/.vs/TestKommersant/v15
+/TestKommersant/packages
+/TestKommersant/WebApplication1/bin
+/TestKommersant/WebApplication1/obj
